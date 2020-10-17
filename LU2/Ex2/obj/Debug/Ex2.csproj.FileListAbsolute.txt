@@ -1,0 +1,6 @@
+C:\Users\malin\Desktop\Elly\IV_course\PP\LU2\Ex2\bin\Debug\Ex2.exe.config
+C:\Users\malin\Desktop\Elly\IV_course\PP\LU2\Ex2\bin\Debug\Ex2.exe
+C:\Users\malin\Desktop\Elly\IV_course\PP\LU2\Ex2\bin\Debug\Ex2.pdb
+C:\Users\malin\Desktop\Elly\IV_course\PP\LU2\Ex2\obj\Debug\Ex2.exe
+C:\Users\malin\Desktop\Elly\IV_course\PP\LU2\Ex2\obj\Debug\Ex2.pdb
+C:\Users\malin\Desktop\Elly\IV_course\PP\LU2\Ex2\obj\Debug\Ex2.csprojResolveAssemblyReference.cache
