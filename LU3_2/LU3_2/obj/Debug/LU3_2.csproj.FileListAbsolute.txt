@@ -1,0 +1,11 @@
+H:\PP\LU3_2\LU3_2\bin\Debug\LU3_2.exe.config
+H:\PP\LU3_2\LU3_2\bin\Debug\LU3_2.exe
+H:\PP\LU3_2\LU3_2\bin\Debug\LU3_2.pdb
+H:\PP\LU3_2\LU3_2\obj\Debug\LU3_2.exe
+H:\PP\LU3_2\LU3_2\obj\Debug\LU3_2.pdb
+C:\Users\malin\Desktop\Elly\IV_course\PP\LU3_2\LU3_2\bin\Debug\LU3_2.exe.config
+C:\Users\malin\Desktop\Elly\IV_course\PP\LU3_2\LU3_2\obj\Debug\LU3_2.exe
+C:\Users\malin\Desktop\Elly\IV_course\PP\LU3_2\LU3_2\obj\Debug\LU3_2.pdb
+C:\Users\malin\Desktop\Elly\IV_course\PP\LU3_2\LU3_2\bin\Debug\LU3_2.exe
+C:\Users\malin\Desktop\Elly\IV_course\PP\LU3_2\LU3_2\bin\Debug\LU3_2.pdb
+C:\Users\malin\Desktop\Elly\IV_course\PP\LU3_2\LU3_2\obj\Debug\LU3_2.csprojResolveAssemblyReference.cache
