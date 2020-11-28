@@ -1,0 +1,14 @@
+﻿Build started 11/27/2020 3:15:31 PM.
+     1>Project "C:\Users\malin\Desktop\Elly\IV_course\PP\LU8\LU8\LU8.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /openmp /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Exercise.cpp
+         Exercise.cpp
+     1>c:\users\malin\desktop\elly\iv_course\pp\lu8\lu8\exercise.cpp(18): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\malin\Desktop\Elly\IV_course\PP\LU8\Debug\LU8.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\malin\Desktop\Elly\IV_course\PP\LU8\Debug\LU8.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\malin\Desktop\Elly\IV_course\PP\LU8\Debug\LU8.lib" /MACHINE:X86 Debug\Exercise.obj
+         LU8.vcxproj -> C:\Users\malin\Desktop\Elly\IV_course\PP\LU8\Debug\LU8.exe
+     1>Done Building Project "C:\Users\malin\Desktop\Elly\IV_course\PP\LU8\LU8\LU8.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.07
