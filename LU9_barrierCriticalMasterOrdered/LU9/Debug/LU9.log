@@ -1,0 +1,11 @@
+﻿Build started 04-Dec-20 14:20:59.
+     1>Project "D:\IV_course\PP\LU9\LU9\LU9.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\IV_course\PP\LU9\Debug\LU9.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\IV_course\PP\LU9\Debug\LU9.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\IV_course\PP\LU9\Debug\LU9.lib" /MACHINE:X86 Debug\MasterAndCritical.obj
+         Debug\Ordered.obj
+         LU9.vcxproj -> D:\IV_course\PP\LU9\Debug\LU9.exe
+     1>Done Building Project "D:\IV_course\PP\LU9\LU9\LU9.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.64
