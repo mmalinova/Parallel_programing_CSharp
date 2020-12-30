@@ -3,7 +3,7 @@
 #include <stdlib.h>
 
 
-/*int main(int argc, char *argv[]) {
+int main(int argc, char *argv[]) {
 
 	int nthreads, tid;
 
@@ -25,4 +25,3 @@
 	} //All threads join master thread and disband
 
 }
-*/
