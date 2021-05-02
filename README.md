@@ -47,6 +47,6 @@ OpenMp schedule clause.
 
 OpenMp barrier, critical, master and order directives.
 
-##LU10_MPI
+## LU10_MPI
 
 Introduction to MPI programming with C#.
